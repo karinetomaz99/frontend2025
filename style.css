@@ -9,45 +9,45 @@ body{
 }
 
 .menu{
-    background-color: lightpink;
+    background-color: rgb(207, 65, 146);
     display: flex;
     justify-content: center;
 }
 
 .menu a{
-    color: aliceblue;
-    text-decoration: none;
+    color: rgb(220, 103, 171);
+    text-decoration:  none;
     padding: 15px 20px;
     display: block;
     font-size: 25px;
 }
 
 .menu a:hover{
-    background-color: cadetblue;
+    background-color:  #dc87c4;
 }
 
 .grid{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 16px;
+    gap: 16px
 }
 
 .card{
-    background-color: aliceblue;
-    border-radius: 8px;
+    background: #ffcff1;
+    border-radius:  8px;
     padding: 16px;
-    box-shadow: 0 2px 6px rgb(218, 222, 213);
+    box-shadow: 0 2px 6px rgba(66, 116, 215, 5);
 }
 
-ol{
-    padding-left: 20px;   
+ol {
+    padding-left: 20px;
 }
 
-ol li{
+ol li {
     margin-bottom: 6px;
 }
 
 .titulo-principal{
     text-align: center;
-    color:coral;
+    color: pink;
 }
