@@ -33,6 +33,8 @@ body{
 }
 
 .card{
+    text-align: center;
+    color: darksalmon;
     background: #ffcff1;
     border-radius:  8px;
     padding: 16px;
