@@ -23,7 +23,7 @@ body{
 }
 
 .menu a:hover{
-    background-color:  #dc87c4;
+    background-color:  #ffffff;
 }
 
 .grid{
@@ -35,7 +35,7 @@ body{
 .card{
     text-align: center;
     color: darksalmon;
-    background: #ffcff1;
+    background: #ffffff;
     border-radius:  8px;
     padding: 16px;
     box-shadow: 0 2px 6px rgba(66, 116, 215, 5);
